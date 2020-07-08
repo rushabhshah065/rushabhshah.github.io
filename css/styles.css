@@ -332,8 +332,8 @@ background: none;
 .banner-content {
     position: absolute;
     z-index: 3;
-    top: 0px;
-    left: 0px;
+    top: 200px;
+    left: 680px;
     right: 0px;
 }
 
@@ -402,7 +402,6 @@ background: none;
     position: relative;
     width: 16px;
     height: 16px;
-    border-radius: 0px;
     background: rgba(255, 255, 255, 0.13);
     margin: 3px;
     cursor: pointer;
@@ -436,7 +435,7 @@ margin: 0px;
 /*parlex*/
 .bg-parlex {
 padding-top: 0px;
-background-image: url('../images/banner-bg.jpg');
+background-image: url('../images/banner-bgr.jpg');
 background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
