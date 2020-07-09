@@ -332,7 +332,6 @@ background: none;
 .banner-content {
     position: absolute;
     z-index: 3;
-    
     top: 200px;
     left: 680px;
     right: 0px;
@@ -353,7 +352,7 @@ background: none;
     }
 
 .da-slider {
-    margin: 0 auto !important;
+    margin: 0px auto !important;
 }
 
 .sub-heading {
@@ -403,7 +402,7 @@ background: none;
     position: relative;
     width: 16px;
     height: 16px;
-    background: rgba(255, 255, 255, 0.13);
+    background: #CC4646;
     margin: 3px;
     cursor: pointer;
     box-shadow: 1px 1px 1px rgba(0,0,0,0.6) inset, 1px 1px 1px rgba(255,255,255,0.1);
